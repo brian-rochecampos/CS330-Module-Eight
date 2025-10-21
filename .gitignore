@@ -1,0 +1,13 @@
+.vs/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+*.log
+*.user
+*.suo
+*.cache
+*.tmp
+*.db
+*.opendb
